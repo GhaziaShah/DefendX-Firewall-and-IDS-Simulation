@@ -1,0 +1,36 @@
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.1 on port 80 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.1 on port 80 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.2 on port 22 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.2 on port 22 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.3 on port 80 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.3 on port 80 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.8 on port 80 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.8 on port 80 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.9 on port 80 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.9 on port 80 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.10 on port 8080 using TCP
+[2025-11-16 16:00:00] Blocked (auto-blacklist) -----> 192.168.1.13 on port 0 using ANY
+[2025-11-16 16:00:00] Blocked -----> 10.0.0.10 on port 8080 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.11 on port 443 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.11 on port 443 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.10 on port 53 using UDP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.10 on port 53 using UDP
+[2025-11-16 16:00:00] Blocked -----> 10.0.0.13 on port 80 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.5 on port 8080 using TCP
+[2025-11-16 16:00:00] Blocked (auto-blacklist) -----> 192.168.1.15 on port 0 using ANY
+[2025-11-16 16:00:00] Blocked -----> 10.0.0.5 on port 8080 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.1 on port 80 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.1 on port 80 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.2 on port 22 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.2 on port 22 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.3 on port 80 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.3 on port 80 using TCP
+[2025-11-16 16:00:00] Blocked -----> 10.0.0.8 on port 80 using TCP
+[2025-11-16 16:00:00] Blocked -----> 10.0.0.9 on port 80 using TCP
+[2025-11-16 16:00:00] Blocked -----> 10.0.0.10 on port 8080 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.11 on port 443 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.11 on port 443 using TCP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.10 on port 53 using UDP
+[2025-11-16 16:00:00] Allowed -----> 10.0.0.10 on port 53 using UDP
+[2025-11-16 16:00:00] Blocked -----> 10.0.0.13 on port 80 using TCP
+[2025-11-16 16:00:00] Blocked -----> 10.0.0.5 on port 8080 using TCP

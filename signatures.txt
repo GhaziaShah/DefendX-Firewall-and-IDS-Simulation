@@ -1,0 +1,11 @@
+<script>
+DROP TABLE
+cmd\\.exe
+/etc/passwd
+union select
+alert\(
+onerror=
+base64_decode
+<iframe
+wget http
+powershell -encodedcommand

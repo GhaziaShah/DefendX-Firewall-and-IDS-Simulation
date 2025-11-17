@@ -1,0 +1,5 @@
+Normal Traffic Data
+GET /index.html
+DNS query for example.com
+SSH handshake
+User login
